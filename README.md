@@ -157,7 +157,8 @@ Example Code
 
 Code:
 
-```#include "sort.h"
+```c
+#include "sort.h"
 #include <stdio.h>
 #include <stdlib.h>
 
